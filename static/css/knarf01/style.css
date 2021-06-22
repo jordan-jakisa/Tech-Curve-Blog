@@ -1,0 +1,9 @@
+.nav_bar {
+	background-color: teal;
+}
+.nav_main {
+	align-content: left
+}
+.nav_items {
+	list-style-type: none;
+}
